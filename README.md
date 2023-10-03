@@ -9,7 +9,7 @@ Hello, I'm Rachelle! I am an entry-level data analyst with expertise in data ana
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/rnorman1996/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/rnorman1996/SQL_Portfolio/blob/main/README.md).
 
 ### 🛠️ Tools
 
