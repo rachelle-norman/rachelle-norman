@@ -19,4 +19,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/rnorm
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/rnorman1996/)
+- [Linkedin](https://www.linkedin.com/in/rachelle-norman-1b0016258/)
