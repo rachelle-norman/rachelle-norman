@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-Hello, I'm Rachelle! I am an entry-level data analyst with expertise in data analysis, data visualization, and query optimization. 
+Hello, I'm Rachelle! I am an accomplished general manager turned data analyst with expertise in data analysis, data visualization, and query optimization. 
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
